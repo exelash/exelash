@@ -5,5 +5,3 @@ You won't be able to see most of my projects but I am currenty working on [`az1.
 - **Email:** `a@az1.lol`
 - **Discord:** `alex.#1689`
 You can contact me with anyquestions or help! ❤️
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az1lol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
