@@ -6,13 +6,13 @@ You won't be able to see most of my projects but I am currenty working on [`az1.
 
 ### Skills
 
-• Javascript, Node.js, Vue.js
-• HTML
-• CSS
-• Python
-• Lua
-• CSharp
-• MongoDB, SQL, SQLLite
+- Javascript, Node.js, Vue.js
+- HTML
+- CSS
+- Python
+- Lua
+- CSharp
+- MongoDB, SQL, SQLLite
 
 ---
 
