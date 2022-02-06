@@ -5,7 +5,7 @@ I'm Alex, a student from the United States who loves full-stack development. I'v
 
 ### Contact
 
-📧 Mail • [`a@az1.sh`](mailto:a@az1.sh)  
+📧 Mail • [`alex@exela.sh`](mailto:alex@exela.sh)  
 
 💬 Discord • [`alex.#1339`](https://discord.com/users/373209486296350730) 
 
